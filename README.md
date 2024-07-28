@@ -10,4 +10,4 @@
  - dataset can download from https://drive.google.com/drive/folders/1IMRlOJbuPVTqKPLsjNVpOarcrYVt-cAq?usp=drive_link
 
 # checkpoint
- - 
+ - https://drive.google.com/drive/folders/1TcS9wjF3k-9i7aRJB-AOHdguBNuWvetT?usp=drive_link
